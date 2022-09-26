@@ -1,0 +1,164 @@
+.colliers {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive /
+.colliers img {
+  width: 100%;
+  height: auto;
+}
+
+/ Style the button and place it in the middle of the container/image /
+.colliers .collier {
+  position: absolute;
+  top: 55%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: black;
+  font-size: 45px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.colliers .collier:hover {
+  background-color:white;
+}
+/ Centered text /
+.centered {
+  font-size: 50px;
+  color: black;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  right: 16px;
+  transform: translate(-50%, -50%);
+}
+.bagues {
+  position: relative;
+  width: 50%;
+}
+
+/ Make the image responsive /
+.bagues img {
+  width: 100%;
+  height: auto;
+}
+
+/ Style the button and place it in the middle of the container/image /
+.bagues .bague {
+  position: absolute;
+  top: 45%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color:white;
+  font-size: 35px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.bagues .bague:hover {
+  background-color: black;
+}
+/ Top right text */
+.top-right {
+  font-size: 50px;
+  color: white;
+  position: absolute;
+  top: 150px;
+  right: 280px;
+}
+.manchettes {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive /
+.manchettes img {
+  width: 100%;
+  height: auto;
+}
+
+/ Style the button and place it in the middle of the container/image /
+.manchettes .manchette {
+  position: absolute;
+  top: 35%;
+  left: 22%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color:black;
+  font-size: 35px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.manchettes .manchette:hover {
+  background-color: white;
+}
+/ Top left text /
+.top-left {
+  font-size: 50px;
+  color: black;
+  position: absolute;
+  top: 100px;
+  left: 16px;
+}
+.boucles {
+  position: relative;
+  width: 50%;
+}
+
+/ Make the image responsive /
+.boucles img {
+  width: 100%;
+  height: auto;
+}
+
+/ Style the button and place it in the middle of the container/image /
+.boucles .boucle {
+  position: absolute;
+  top: 35%;
+  left: 22%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color:black;
+  font-size: 35px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.boucles .boucle:hover {
+  background-color: white;
+}
+/ Top left text */
+.top-left {
+  font-size: 50px;
+  color: black;
+  position: absolute;
+  top: 100px;
+  left: 16px;
+}
+
+.box {
+  width: 100%;
+  display: flex !important;
+  justify-content: space-around;
+}
+.box2 {
+  display: flex;
+  flex-direction: column;
+}

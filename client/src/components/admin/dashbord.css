@@ -1,0 +1,11 @@
+.bigbox {
+  display: flex;
+  width: 141%;
+
+  margin-top: 150px;
+}
+.box22 {
+  margin-left: 84px;
+  margin-top: 50px;
+  width: 900px;
+}
